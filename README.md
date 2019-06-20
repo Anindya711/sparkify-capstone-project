@@ -28,7 +28,10 @@ The repository contains following folders.
   >numpy\
   >pandas\
   >matplotlib.pyplot\
+  >sklearn
   >seaborn\
   >pyspark.ml
 
+**Deployment**
 
+**References**
