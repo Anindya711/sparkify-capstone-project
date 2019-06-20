@@ -12,14 +12,14 @@ Machine learning is critical to helping different organizations understand which
   Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes.
   Use the machine learning APIs within Spark ML to build and tune models.
   
-**Structure** \
-The repository contains following folders. \
+**Structure**\
+The repository contains following folders.
 >*1. data* - contains the mini sparkify dataset.\
 >*2. models* - the trained machine learning models.\
 >*3. notebook* - Contains the analysis and detailed coding of the project..
 
 **Pre-requisites** \
-  Following packages should be installed in the system before running the notebook.\
+  Following packages should be installed in the system before running the notebook.
   >pyspark\
   >pyspark.sql.SparkSession\
   >pyspark.sql\
@@ -28,6 +28,6 @@ The repository contains following folders. \
   >pandas\
   >matplotlib.pyplot\
   >seaborn\
-  >pyspark.ml\
+  >pyspark.ml
 
 
