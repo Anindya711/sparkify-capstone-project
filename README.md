@@ -20,13 +20,14 @@ The repository contains following folders. \
 
 **Pre-requisites** \
   Following packages should be installed in the system before running the notebook.
+  >pyspark
   >pyspark.sql.SparkSession
-   pyspark.sql
-   datetime
-   numpy
-   pandas
-   matplotlib.pyplot
-   seaborn
-   pyspark.ml
+  >pyspark.sql
+  >datetime
+  >numpy
+  >pandas
+  >matplotlib.pyplot
+  >seaborn
+  >pyspark.ml
 
 
