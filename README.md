@@ -15,8 +15,8 @@ Machine learning is critical to helping different organizations understand which
 **Structure**\
 The repository contains following folders.
 >*1. data* - contains the mini sparkify dataset.\
->*2. models* - the trained machine learning models.\
->*3. notebook* - Contains the analysis and detailed coding of the project..
+>*2. notebook* - Contains the analysis and detailed coding of the project.
+>*3. readme.md* - Readme file.
 
 **Pre-requisites** \
   Following packages should be installed in the system before running the notebook.
@@ -31,8 +31,10 @@ The repository contains following folders.
   >sklearn
   >seaborn\
   >pyspark.ml
-
-**Deployment**
+  
+  **Blog**
+  The analysis could be found at my blog link.
+  
 
 **References**
   >https://docs.databricks.com/spark/latest/mllib/binary-classification-mllib-pipelines.html
