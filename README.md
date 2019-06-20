@@ -1,12 +1,13 @@
 # sparkify-capstone-project
 This is the capstone project of Udacity DSND. As part of this, one churn prediction system is built using pyspark.
 
-**Introduction** \
+**Project Overview** \
 In this project, we will use PySpark to predict if a customer will cancel the subscription or not for a online music streaming company
-called Sparkify. 
+called Sparkify. This is a classification problem, as we will predict if a customer will churn or not. This is a pain area in all the
+areas now a days, IT, Healthcare, Infrastructure etc.
 
 **Project Motivation** \
-Machine learning is critical to helping different organizations understand which messages are relevant to them and which messages to prioritize. Predicting churn rates is a challenging and common problem that data scientists and analysts regularly encounter in any customer-facing business. Additionally, the ability to efficiently manipulate large datasets with Spark is one of the highest-demand skills in the field of data. The full dataset is 12GB, of which we analyzed a mini subset of 128MB.
+Machine learning is critical to helping different organizations understand which messages are relevant to them and which messages to prioritize. Predicting churn rates is a challenging and common problem that data scientists and analysts regularly encounter in any customer-facing business. Additionally, the ability to efficiently manipulate large datasets with Spark is one of the highest-demand skills in the field of data. The full dataset is 12GB, of which we analyzed a mini subset of 123MB. We will use PySpark extensively to solve this problem.
 
 **Steps** \
   Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes.
