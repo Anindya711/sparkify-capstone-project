@@ -20,6 +20,7 @@ The repository contains following folders.
 
 **Pre-requisites** \
   Following packages should be installed in the system before running the notebook.
+  >SparkContext
   >pyspark\
   >pyspark.sql.SparkSession\
   >pyspark.sql\
