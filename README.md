@@ -19,15 +19,15 @@ The repository contains following folders. \
 >*3. notebook* - Contains the analysis and detailed coding of the project..
 
 **Pre-requisites** \
-  Following packages should be installed in the system before running the notebook.
-  >pyspark
-  >pyspark.sql.SparkSession
-  >pyspark.sql
-  >datetime
-  >numpy
-  >pandas
-  >matplotlib.pyplot
-  >seaborn
-  >pyspark.ml
+  Following packages should be installed in the system before running the notebook.\
+  >pyspark\
+  >pyspark.sql.SparkSession\
+  >pyspark.sql\
+  >datetime\
+  >numpy\
+  >pandas\
+  >matplotlib.pyplot\
+  >seaborn\
+  >pyspark.ml\
 
 
