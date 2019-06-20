@@ -15,8 +15,9 @@ Machine learning is critical to helping different organizations understand which
 **Structure**\
 The repository contains following folders.
 >*1. data* - contains the mini sparkify dataset.\
->*2. notebook* - Contains the analysis and detailed coding of the project.
->*3. readme.md* - Readme file.
+>*2. sparkify.ipynb* - Contains the analysis and detailed coding of the project.
+>*3. sparkify.html* - Contains the analysis and detailed coding of the project in a html format.
+>*4. readme.md* - Readme file.
 
 **Pre-requisites** \
   Following packages should be installed in the system before running the notebook.
@@ -33,10 +34,13 @@ The repository contains following folders.
   >pyspark.ml
   
   **Blog**
-  The analysis could be found at my blog link.
+  The analysis could be found at my blog link. 
+  
+  >https://medium.com/@anindya.prince/sparkify-churn-prediction-using-pyspark-36b853ab0f2a?source=friends_link&sk=a9af69cc0276773aac059012cb8f80ad
   
 
 **References**
+
   >https://docs.databricks.com/spark/latest/mllib/binary-classification-mllib-pipelines.html
   >https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa
   >https://spark.apache.org/docs/2.2.0/api/java/index.html?org/apache/spark/ml/evaluation/BinaryClassificationEvaluator.html
