@@ -16,8 +16,7 @@ Machine learning is critical to helping different organizations understand which
 **Structure**\
 The repository contains following folders.
 >*1. data* - contains the mini sparkify dataset.\ **Note :Could not upload 123MB data due to github limit**.\
-
->*2. sparkify.ipynb* - Contains the analysis and detailed coding of the project.
+>*2. sparkify.ipynb* - Contains the analysis and detailed coding of the project.\
 >*3. sparkify.html* - Contains the analysis and detailed coding of the project in a html format.
 >*4. readme.md* - Readme file.
 
