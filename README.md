@@ -35,3 +35,7 @@ The repository contains following folders.
 **Deployment**
 
 **References**
+  >https://docs.databricks.com/spark/latest/mllib/binary-classification-mllib-pipelines.html
+  >https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa
+  >https://spark.apache.org/docs/2.2.0/api/java/index.html?org/apache/spark/ml/evaluation/BinaryClassificationEvaluator.html
+  >https://spark.apache.org/docs/2.1.0/ml-classification-regression.html#random-forest-classifier
