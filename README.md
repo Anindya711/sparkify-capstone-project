@@ -1,5 +1,5 @@
 # sparkify-capstone-project
-This is the capstone project of Udacity DSND. As part of this, one churn prediction system is built using pyspark.
+This is the capstone project,as part of this one churn prediction system is built using pyspark.
 
 **Project Overview** \
 In this project, we will use PySpark to predict if a customer will cancel the subscription or not for a online music streaming company
